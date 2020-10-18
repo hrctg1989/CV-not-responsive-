@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #9c884c;
+}
+
+/*  main container
+    change here
+     */
+.container{
+    background-color: #666;
+    width: 1200px;
+    margin: auto;
+    color: wheat;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Sansita Swashed', cursive;
+   
+
+}
+.head{
+
+}
+.head:hover{
+    box-shadow: 10px -10px 7px gray;
+    
+}
+img{
+    height: 150px;
+    width: 300px;
+    float: left;
+    margin-top: 15px ;
+    margin-left: 10px;
+    position: relative;
+
+
+}
+.head1{
+    width: 50%;
+   
+
+}
+.ht1{
+    position: absolute;
+    margin-left: 170px;
+    padding-top: 45px;
+
+}
+.ht2{
+    position: absolute;
+    padding-top: 90px;
+    margin-left: 170px;
+
+    
+
+}
+
+.head2{
+    width: 50%;
+    float: right;
+    padding-left: 300px;
+    padding-right: 15px;
+
+}
+.htt1{
+    margin-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: violet;
+    padding-bottom: 10px;
+}
+a:hover{
+    color: tomato;
+    
+}
+.headhr{
+    
+    
+    background-color: yellow;
+}
+.clear{
+    clear: both;
+}
+.hr1{
+    height: 10px;
+    background-color: burlywood;
+    box-shadow: 2px 2px 5px yellow;
+}
+.body1{
+
+}
+.body1:hover{
+    box-shadow: 10px -10px 7px gray;
+}
+.bhead{
+    width: 40%;
+    float: left;
+    padding: 30px 40px;
+    font-size: 20px;
+
+}
+.bmain p{
+    width: 60%;
+    padding: 30px ;
+    margin-left: 40%;
+    font-size: 30px;
+
+}
+.mainb{ 
+
+}
+.mainb:hover{
+    box-shadow: 120px -10px 7px gray;
+}
+.mainb1{
+    width: 30%;
+    float: left;
+    font-size: 30px;
+    padding: 30px 100px;
+
+}
+.mainb2{
+    width: 35%;
+    float: left;
+    font-size: 30px;
+    padding: 30px 100px;
+
+}
+.mainb2 p{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: justify;
+    
+}
+.mainb2 p a{
+    background-color: orangered;
+    color: white;
+    padding: 3px 10px;
+    margin-left: 100px;
+    
+}
+.mainb2 p a::after{
+    top: 100;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    
+}
+.mainb2 p a:hover{
+    top: 0;
+    left: 0;
+
+}
+
+.mainb3{
+    width: 35%;
+    float: right;
+    font-size: 30px;
+    padding: 30px 50px;
+
+}
+.mainb3 p{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: justify;
+    
+}
+.footer{
+    background-color: black;
+    padding: 50px 150px;
+    margin-bottom: 15px;
+}
+.footer a{
+   font-size: 30px;
+   padding-right: 170px;
+}
+.spani
+{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
